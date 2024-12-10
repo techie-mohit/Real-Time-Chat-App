@@ -1,4 +1,3 @@
-Technologies Used: MERN Stack (MongoDB, Express.js, React.js, Node.js), Zustand, Socket.IO, Deployment on [Platform (e.g., AWS/Heroku/Vercel)]
 
 Built a real-time chat application enabling instant communication with a clean, user-friendly interface.
 Implemented state management using Zustand for lightweight, efficient, and easy-to-integrate global state handling.
